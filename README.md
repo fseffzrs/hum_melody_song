@@ -1,2 +1,7 @@
-# hum_melody_song
-generate song based on humming melody
+record humming
+      ↓
+audio to midi
+      ↓
+magenta melody _rnn generate melody based on humming midi
+      ↓
+add accompaniment to the melody 
